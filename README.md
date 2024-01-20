@@ -24,7 +24,7 @@ All Uploaded files
 
 2) GEB Presentation- In this particular file a short summary is given on this project like why did we choose this project . Albeit, we described some future scope to this project
 
-3)result.zip- In this Zip file various entrys has be done for test purpose and different kinds of database is created like application,bill,city,complain,connection,connrequest,consumer,contact,department,division,document,email,feedback,message,meter,register,suggestion all this files are managed 
+3) result.zip- In this Zip file various entrys has be done for test purpose and different kinds of database is created like application,bill,city,complain,connection,connrequest,consumer,contact,department,division,document,email,feedback,message,meter,register,suggestion all this files are managed 
 
-
+4) Tables Specification all kind of database are available like its type etc  
 
