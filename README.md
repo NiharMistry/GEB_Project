@@ -10,11 +10,11 @@
           -Query And Solution
 
 (Software Interface)
-##Front End
+##Front End Development
       #PHP language is used
       -PHP is a server side scripting language. That is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages.        PHP scripts can only be interpreted on a server that has PHP installed.
 
-##Back End
+##Back End Development
       #My SQL language is used
       -MySQL is a relational database management system based on the Structured Query Language, which is the popular language for accessing and managing the records in the database. 
 
